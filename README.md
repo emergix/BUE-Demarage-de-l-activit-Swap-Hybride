@@ -68,6 +68,15 @@ Un swap est décomposé en :
 | Année 1 | Année 2 | Année 3 |
 |---------|---------|---------|
 | 39      | 42,8    | 56      |
+
+-  → Presentation de l'activité : [BUE_Activite_Swap.pdf](./BUE_Activite_Swap.pdf)
+
+
+-  → Flyer de la conference "Gestion quantitative 1992" : [Conference_IIR_1992.pdf](./Conference_IIR_1992.pdf)
+
+
+-  → Slides de la Conference : [Gestion_Dynamique_Passive_1992.pdf](./Gestion_Dynamique_Passive_1992.pdf)
+
 ---
 ## Conclusion
 Cette activité de marché swap, pionnière pour l'époque, s'appuyait sur :
